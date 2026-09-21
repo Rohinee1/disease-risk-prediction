@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# DO NOT ignore models/ or data/ because we need the pkl files and engineered data for Streamlit Cloud
