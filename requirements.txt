@@ -13,3 +13,4 @@ shap
 imbalanced-learn
 xgboost
 ucimlrepo
+streamlit-option-menu
