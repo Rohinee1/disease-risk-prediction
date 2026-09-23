@@ -4,7 +4,7 @@ import pandas as pd
 import sys
 import os
 
-from schemas import PatientData, PredictionResponse
+from backend.schemas import PatientData, PredictionResponse
 from typing import List
 
 app = FastAPI(title="Disease Risk Prediction API")
